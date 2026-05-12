@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Atul Sharma
+# ⚡ ATUL SHARMA
 
-### Backend Developer • Real-Time Systems Engineer • Full Stack Builder
+### Backend Engineer • Real-Time Systems • Full Stack Developer • AI Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Creating+Real-Time+Applications;Node.js+%7C+Java+%7C+MongoDB+%7C+React;Passionate+about+System+Design+and+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Designing+Real-Time+Applications;Exploring+AI-Powered+Engineering;Creating+Production-Level+Architectures" alt="Typing SVG" />
 
 </div>
 
@@ -12,65 +12,120 @@
 
 # 🚀 About Me
 
-💻 Backend-focused developer passionate about building scalable systems, real-time applications, and intelligent full stack platforms.
+```yaml
+Name: Atul Sharma
+Role: Backend-Focused Full Stack Developer
+Focus:
+  - Scalable APIs
+  - Real-Time Systems
+  - AI-Powered Platforms
+  - Backend Architecture
+  - System Design
 
-🔹 I enjoy designing:
-- REST APIs
-- Real-time architectures
-- Analytics dashboards
-- Authentication systems
-- AI-powered applications
-- Scalable backend infrastructures
+Currently Building:
+  - Autonomous AI Incident Platform
+  - Analytics Dashboards
+  - Real-Time Infrastructure Systems
 
-🔹 Currently exploring:
-- Advanced System Design
-- AI-integrated platforms
-- Distributed systems
-- WebSocket architectures
-- High-performance backend engineering
+Learning:
+  - Distributed Systems
+  - Cloud Infrastructure
+  - Advanced System Design
+  - AI Engineering
+```
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Engineering Focus
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 Backend Systems
+- REST API Development
+- Authentication & Authorization
+- JWT Security
+- Database Architecture
+- Scalable Backend Design
+
+</td>
+
+<td width="50%">
+
+## ⚡ Real-Time Systems
+- WebSockets
+- Socket.io
+- Event-Driven Systems
+- Spatial Voice Logic
+- Live Data Synchronization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
-## Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![REST API](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT_Authentication-000?style=for-the-badge&logo=jsonwebtokens)
-![WebSocket](https://img.shields.io/badge/WebSockets-000?style=for-the-badge&logo=socketdotio)
+## Backend & APIs
 
-## Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb,mysql,postgres" />
 
-## Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+---
+
+## Frontend & UI
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind" />
+
+---
+
+## Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
+
+---
+
+## 🎙️ Gather Spatial Voice Controller
+
+> Adaptive real-time spatial voice controller for Gather Town using intelligent proximity and zone-based logic.
+
+### Core Features
+- Real-time voice automation
+- Spatial interaction engine
+- Dynamic proximity handling
+- Stable zone synchronization
+- Intelligent participant management
+
+### Tech Stack
+`JavaScript` `WebSockets` `Real-Time Logic`
+
+🔗 Repository:
+https://github.com/atulsharma47/Gather-Spatial-Voice-Controller
+
+---
 
 ## 📊 Developer Productivity Dashboard
-A data-driven engineering analytics platform that transforms raw engineering data into actionable insights.
 
-### Features
-- Developer performance tracking
-- Bug risk analysis
-- Trend detection engine
-- Deployment analytics
-- Smart recommendation system
+> Engineering analytics platform transforming developer metrics into actionable insights.
+
+### Core Features
+- Productivity analytics
+- Trend monitoring
+- Engineering insights
+- Data visualization
+- Performance tracking
+
+### Tech Stack
+`JavaScript` `Analytics` `Dashboard Systems`
 
 🔗 Repository:
 https://github.com/atulsharma47/developer-productivity-dashboard
@@ -78,57 +133,46 @@ https://github.com/atulsharma47/developer-productivity-dashboard
 ---
 
 ## 💰 Finance Backend API
-A scalable finance management backend featuring secure authentication and analytics APIs.
 
-### Features
+> Scalable finance management backend with secure authentication and structured API architecture.
+
+### Core Features
 - JWT Authentication
-- Role-based authorization
-- Secure REST APIs
-- Financial analytics
-- MongoDB integration
+- Role-Based Access Control
+- RESTful APIs
+- Financial Data Handling
+- Secure Backend Architecture
+
+### Tech Stack
+`Node.js` `Express.js` `MongoDB` `JWT`
 
 🔗 Repository:
 https://github.com/atulsharma47/finance-backend
 
 ---
 
-## 🎙️ Gather Spatial Voice Controller
-A real-time voice automation system for Gather Town using proximity-based spatial interaction logic.
-
-### Features
-- Real-time WebSocket communication
-- Dynamic voice automation
-- Low-latency event handling
-- Spatial interaction system
-
-🔗 Repository:
-https://github.com/atulsharma47/Gather-Spatial-Voice-Controller
-
----
-
 ## 🧠 Depression Detection using Deep Learning
-A machine learning project focused on detecting depression patterns using deep learning algorithms.
 
-### Features
-- Deep learning models
+> Deep learning-based mental health analysis system using machine learning models for depression detection.
+
+### Core Features
+- Deep learning prediction models
 - Data preprocessing
-- Prediction analysis
-- AI-driven insights
+- Sentiment analysis
+- Mental health classification
 
-🔗 Repository:
-(Add your repository link here)
+### Tech Stack
+`Python` `Deep Learning` `Machine Learning`
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulsharma47&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atulsharma47&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsharma47&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsharma47&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsharma47&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
 
@@ -136,11 +180,11 @@ A machine learning project focused on detecting depression patterns using deep l
 
 # 🎯 Current Goals
 
-✅ Build production-level full stack systems  
-✅ Master backend architecture & system design  
-✅ Create AI-powered engineering platforms  
-✅ Contribute to impactful open-source projects  
-✅ Grow as a scalable systems engineer
+- ✅ Build production-level full stack systems
+- ✅ Master backend architecture & system design
+- ✅ Create AI-powered engineering platforms
+- ✅ Contribute to impactful open-source projects
+- ✅ Grow as a scalable systems engineer
 
 ---
 
@@ -148,9 +192,17 @@ A machine learning project focused on detecting depression patterns using deep l
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atul-sharma-ab03882b6/)
+<a href="https://www.linkedin.com/in/atul-sharma-ab03882b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/atulsharma47)
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/atulsharma47">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -158,6 +210,6 @@ A machine learning project focused on detecting depression patterns using deep l
 
 <div align="center">
 
-### ⚡ “Build. Learn. Scale. Repeat.”
+### ⚡ "Build. Scale. Solve. Repeat."
 
 </div>
